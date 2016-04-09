@@ -1,4 +1,4 @@
-Hash-Algorithm-Identifier
+密文识别 正则版本 Hash-Algorithm-Identifier
 =========================
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AnimeshShaw/Hash-Algorithm-Identifier?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
